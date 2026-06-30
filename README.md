@@ -1,2 +1,17 @@
-# pyrunner-atabletool-c87fd4
-PyRunner 在线更新仓库（自动创建）
+# Atabletool
+
+Atabletool 的官方发布与自动更新仓库。
+
+本仓库用于发布 Windows 安装包，并为 Atabletool 提供程序内自动更新服务。
+
+## 下载与安装
+
+前往本仓库的 **[Releases](../../releases/latest)** 页面，下载最新的安装包并双击安装即可。
+
+## 自动更新
+
+安装后，程序会在每次启动时自动检查并获取最新版本，通常无需再手动下载。
+
+## 说明
+
+本仓库仅用于该软件的版本发布与更新分发。
